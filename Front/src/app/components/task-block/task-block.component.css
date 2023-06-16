@@ -1,0 +1,90 @@
+.container__task-block{
+    width: 320px;
+    height: 178px;
+    margin-top: 50px;
+    margin-left: 25px;
+    position: absolute;
+    opacity: 1;
+    background: #292a30;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+
+}
+
+.task-block__title > h1{
+    display: flex;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 5px;
+    flex-direction: row;
+    opacity: 1;
+    margin-left: 10px;
+    background-color: transparent;
+    margin-bottom: 15px;
+    font-weight: Bold;
+    font-size: 24px;
+    justify-content:left;
+}
+
+.task-block__description{
+    width: 310px;
+    height: 170px;
+    color: rgba(154, 151, 151, 0.5);
+    display: flex;
+    margin-top: 50px;
+    margin-left: 10px;
+    background-color: transparent;
+    position: absolute;
+    font-size: 16px;
+    justify-content: center;
+}
+
+.task-block__button{
+    width: 26px;
+    height: 26px;
+    border: 2px solid rgba(255,255,255,0.10000000149011612);
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+    box-sizing: border-box;
+}
+
+.buttonOptions{
+width: 10px;
+height: 2px;
+position: absolute;
+top: 12px;
+left: 8px;
+box-sizing: border-box;
+}
+
+.dot1{
+width: 2px;
+height: 2px;
+background: rgba(255,255,255,1);
+position: absolute;
+top: 0px;
+left: 8px;
+box-sizing: border-box;
+}
+.dot2{
+    width: 2px;
+    height: 2px;
+    background: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 4px;
+    box-sizing: border-box;
+    }
+.dot3{
+        width: 2px;
+        height: 2px;
+        background: rgba(255,255,255,1);
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        box-sizing: border-box;
+        }

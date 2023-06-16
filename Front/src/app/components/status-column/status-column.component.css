@@ -1,0 +1,29 @@
+.container__status-column{
+    width: 352px;
+    height: 826px;
+    background: #24252b;
+    opacity: 1;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    overflow: hidden;
+}
+
+.status-column__title > h1{
+    top: 5px;
+    left: 5px;
+    display: flex;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+    color: rgb(255, 255, 255, 0.5);
+    background-color: transparent;
+    position: absolute;
+    margin-top: 5px;
+    opacity: 1;
+    margin-left: 10px;
+}
