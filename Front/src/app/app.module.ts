@@ -5,13 +5,15 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { StatusColumnComponent } from './components/status-column/status-column.component';
 import { TaskBlockComponent } from './components/task-block/task-block.component';
+import { TodoBlockComponent } from './components/todo-block/todo-block.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     StatusColumnComponent,
-    TaskBlockComponent
+    TaskBlockComponent,
+    TodoBlockComponent
   ],
   imports: [
     BrowserModule,

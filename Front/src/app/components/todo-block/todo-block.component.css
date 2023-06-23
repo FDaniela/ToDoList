@@ -1,0 +1,32 @@
+.block__container {
+  background-color: #24252b;
+  padding: 20px;
+  width: 300px;
+  border-radius: 7px;
+
+
+
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.block__container span {
+  background-color: #24252b;
+  color: rgba(154, 151, 151, 0.5);
+  position: relative;
+  bottom: 10px;
+}
+
+.task__container {
+  border-radius: 7px;
+  padding: 15px;
+  padding-bottom: 100px;
+}
+
+.title__task {
+  color: white;
+}
+
+.description-task {
+  color: rgba(154, 151, 151, 0.5);
+}
