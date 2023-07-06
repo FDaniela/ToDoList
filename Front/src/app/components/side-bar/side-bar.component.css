@@ -1,0 +1,14 @@
+.container__side-bar {
+  width: 352px;
+  height: 100vh;
+  background-color: #24252b;
+  border-radius: 12px;
+}
+
+.h1__side-bar h1 {
+  color: #fff;
+  background-color: #24252b;
+  font-size: 42px;
+  padding-top: 15px;
+  padding-left: 15px;
+}

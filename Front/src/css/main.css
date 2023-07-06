@@ -4,6 +4,7 @@
 body {
   font-size: 14px;
 }
+/* }
 .v1_24 {
   width: 100%;
   height: 1022px;
@@ -15,7 +16,7 @@ body {
   overflow: hidden;
 }
 /* coluna 3 - done */
-.v1_25 {
+/* .v1_25 {
   width: 352px;
   height: 826px;
   background: url("../images/v1_25.png");
@@ -656,7 +657,7 @@ body {
   text-align: left;
 }
 /* coluna 2 - in progress */
-.v1_136 {
+/* .v1_136 {
   width: 352px;
   height: 826px;
   background: url("../images/v1_136.png");
@@ -1405,6 +1406,7 @@ body {
   text-align: left;
 }
 /* coluna 1 - to do list */
+/*
 .v1_278 {
   width: 352px;
   height: 826px;
@@ -2155,6 +2157,7 @@ body {
   text-align: left;
 }
 /* barra superior - mensagme de bem vindo */
+/*
 .v1_452 {
   width: 100%;
   height: 94px;
@@ -2203,7 +2206,8 @@ body {
   text-align: left;
 }
 /* barra lateral */
-.v1_469 { 
+/*
+.v1_469 {
   width: 408px;
   height: 1022px;
   background: url("../images/v1_469.png");
@@ -2561,4 +2565,4 @@ body {
   font-size: 30px;
   opacity: 1;
   text-align: left;
-}
+} */
