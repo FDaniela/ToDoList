@@ -1,1 +1,16 @@
+.container {
+  display: flex;
+}
 
+.area-tarefas__container h1 {
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.area-tarefas__container .block-container {
+  margin-top: 50px;
+  margin-left: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 60px;
+}
