@@ -1,0 +1,17 @@
+.container__side-bar {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+  background-color: #24252b;
+}
+
+.sidenav .mat-toolbar {
+  font-size: 20px;
+  font-weight: bold;  
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  justify-content: center;
+}

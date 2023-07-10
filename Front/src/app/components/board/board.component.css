@@ -1,3 +1,9 @@
+.navbar-title {
+  margin: 20px;
+  margin-bottom: 0px;
+}
+
+
 .container__board {
   display: flex;
   flex-direction: column;
