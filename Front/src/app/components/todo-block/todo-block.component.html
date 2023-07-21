@@ -1,10 +1,12 @@
-
 <div class="block__container">
   <span>To do</span>
   <div class="task__container">
     <div class="title__task">
       <input type="text" id="title" placeholder="Tarefa">
     </div>
-    <p class="description-task">Aprender as tags basicas do html</p>
+    <div class="description-task">
+      <textarea id="description" placeholder="Descrição da tarefa"></textarea>
+    </div>
   </div>
+  <button (click)="criarNovaTarefa()">Criar Nova Tarefa</button>
 </div>
